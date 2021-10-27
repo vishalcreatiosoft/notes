@@ -1,6 +1,6 @@
 NEWS API 
-https://newsapi.org/
-
+newsapi.org
+https://newsapi.org/v2/everything?q=Apple&from=2021-10-27&sortBy=popularity&apiKey=65d1657a27174dbabb6ad8d40bd8fe3f&limit=1
 
 Weather API
 webstack.com
